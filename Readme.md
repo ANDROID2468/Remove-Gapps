@@ -53,7 +53,13 @@ Where I can find the latest release?
 * It's under the [release page](https://github.com/CHEF-KOCH/Remove-Gapps/releases).
 
 
-#### Research and alternatives
+#### Gapps alternatives
 * [NanoMod project](https://forum.xda-developers.com/apps/magisk/module-nanomod-5-0-20170405-microg-t3584928) (now called NanoDroid)
 * [MicroG Project](https://forum.xda-developers.com/android/apps-games/app-microg-gmscore-floss-play-services-t3217616)
 * [MicroG Implementation Status](https://github.com/microg/android_packages_apps_GmsCore/wiki/Implementation-Status)
+
+
+### "Google Free" Operating Systems
+- [GraphenOS](https://grapheneos.org/)
+- [LineageOS](https://lineageos.org/) (_gapps can be optionally installed_)
+- [The /e/](https://e.foundation/e-pre-installed-smartphones/) (Lineage OS fork with Android Open Source Project (AOSP) features integrated)
